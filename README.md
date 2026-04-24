@@ -5,7 +5,7 @@ Records of my Self-Learning Progress in Python and ML for Wireless Applications
 
 /notes will have different concepts I have learned so far and general notes I took for myself
 
-/code will have snippets of code I have produced and worked on
+/code will have snippets I have produced and worked on
 
 /projects will have fully shipped and finished products to showcasing the different skills I have learned
 
